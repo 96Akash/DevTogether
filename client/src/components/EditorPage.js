@@ -20,19 +20,7 @@ const LANGUAGES = [
   "python3",
   "java",
   "cpp",
-  "nodejs",
   "c",
-  "ruby",
-  "go",
-  "scala",
-  "bash",
-  "sql",
-  "pascal",
-  "csharp",
-  "php",
-  "swift",
-  "rust",
-  "r",
 ];
 
 function EditorPage() {
